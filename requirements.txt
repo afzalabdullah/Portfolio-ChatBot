@@ -1,8 +1,8 @@
-Flask==2.1.2
-Flask-CORS==3.0.10
-nltk==3.7
-numpy==1.23.0
-pickle5==0.0.11
-keras==2.9.0
-tensorflow==2.9.1
+Flask
+Flask-CORS
+nltk
+numpy
+pickle5
+keras
+tensorflow
 gunicorn
