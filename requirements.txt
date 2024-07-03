@@ -2,7 +2,7 @@ Flask
 Flask-CORS
 nltk
 numpy
-pickle5
+pickle
 keras
 tensorflow
 gunicorn
